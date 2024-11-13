@@ -32,7 +32,7 @@ export function PehchanLoginButton() {
       className="bg-green-600 hover:bg-green-700 text-white px-6 py-2 h-12"
     >
       <Image 
-        src="/pehchan-logo.svg" 
+        src="/white_icon.svg" 
         alt="" 
         width={20} 
         height={20} 
